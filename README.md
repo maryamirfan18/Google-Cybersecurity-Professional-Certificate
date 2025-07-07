@@ -79,7 +79,7 @@ This repo contains my detailed notes, summaries, and resources for all **9 cours
 _Courses completed: 1 of 9_
 
 - ✅ Course 1: Foundations of Cybersecurity
-- ⏳ Course 2: Play It Safe: Manage Security Risks
+- ✅ Course 2: Play It Safe: Manage Security Risks
 - ⏳ Course 3: Connect and Protect: Networks & Network Security
 - ⏳ Course 4: Tools of the Trade: Linux and SQL
 - ⏳ Course 5: Assets, Threats, and Vulnerabilities
